@@ -1,0 +1,5 @@
+undefined
+"La première ligne.\n La deuxième ligne."
+{
+	"expectedState": "expectedState"
+}
