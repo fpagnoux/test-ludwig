@@ -1,0 +1,7 @@
+undefined
+{
+	"etat": "etat"
+}
+{
+	"expectedState": "expectedState"
+}
